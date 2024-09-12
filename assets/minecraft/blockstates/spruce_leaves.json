@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "minecraft:block/spruce_leaves_base" },
+            { "model": "minecraft:block/spruce_leaves_base", "y": 90 },
+            { "model": "minecraft:block/spruce_leaves_base", "y": 180 },
+            { "model": "minecraft:block/spruce_leaves_base", "y": 270 }
+        ]
+    }
+}

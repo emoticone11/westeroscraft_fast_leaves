@@ -1,0 +1,8 @@
+{
+  "parent": "westerosblocks:block/tinted/leaves",
+  "textures": {
+    "side": "westerosblocks:block/leaves/jungle/cube",
+    "end": "westerosblocks:block/leaves/jungle/cube",
+    "particle": "westerosblocks:block/leaves/jungle/cube"
+  }
+}

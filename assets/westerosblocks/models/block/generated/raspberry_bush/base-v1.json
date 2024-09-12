@@ -1,0 +1,10 @@
+{
+  "parent": "westerosblocks:block/tinted/leaves_overlay",
+  "textures": {
+    "side": "westerosblocks:block/leaves/jungle/cube",
+    "end": "westerosblocks:block/leaves/jungle/cube",
+    "overlayend": "westerosblocks:block/transparent",
+    "overlayside": "westerosblocks:block/leaves/overlay/raspberry0",
+    "particle": "westerosblocks:block/leaves/jungle/cube"
+  }
+}

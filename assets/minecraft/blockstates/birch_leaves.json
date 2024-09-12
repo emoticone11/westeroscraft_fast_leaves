@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "minecraft:block/birch_leaves_base" },
+            { "model": "minecraft:block/birch_leaves_base", "y": 90 },
+            { "model": "minecraft:block/birch_leaves_base", "y": 180 },
+            { "model": "minecraft:block/birch_leaves_base", "y": 270 }
+        ]
+    }
+}
